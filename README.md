@@ -21,8 +21,7 @@ This architecture ensures scalability through Docker and reverse proxy utilizati
 - Docker
 - Redis
 
-## License
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 
 
