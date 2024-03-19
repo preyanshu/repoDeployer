@@ -14,7 +14,7 @@ This architecture ensures scalability through Docker and reverse proxy utilizati
 
 ![server architecture](server_architecture.png)
 
-Experience seamless webpage deployment with [Your Project Name]!
+
 
 ## Technologies Used
 - AWS
